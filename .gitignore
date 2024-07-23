@@ -1,0 +1,1 @@
+-e "# Ignore image files\n*.jpg\n*.jpeg\n\n# Ignore PowerPoint files\n*.pptx" 
