@@ -1,1 +1,6 @@
--e "# Ignore image files\n*.jpg\n*.jpeg\n\n# Ignore PowerPoint files\n*.pptx" 
+# Ignore image files
+*.jpg
+*.jpeg
+
+# Ignore PowerPoint files
+*.pptx
